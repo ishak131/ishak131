@@ -46,3 +46,4 @@ An interactive virtual meeting platform using Jitsi, complete with session sched
 
 _“Build with purpose. Deliver with quality.”_
 
+
